@@ -1,0 +1,8 @@
+# Moi truong va quan ly mat khau
+.env
+*.secret
+
+# Thu muc thu vien & log
+node_modules/
+logs/
+*.log
